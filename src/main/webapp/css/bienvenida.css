@@ -1,0 +1,40 @@
+body {
+	background-image: url(css/img/bienvenida.jsp);
+	background-size: cover;
+	background-position: center;
+	font-family: Arial, sans-serif;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+	
+.alfs-cntnr {
+	max-width: 800px;
+	margin: 50px auto;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	background-color: rgba(0, 0, 0, 0.9);
+}
+
+.alfs-h1 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.alfs-p {
+	line-height: 1.5;
+	margin-bottom: 10px;
+}
+
+.alfs-ul {
+	margin: 10px 0;
+	padding-left: 20px;
+}
+
+.alfs-ul .alfs-li {
+	margin-bottom: 5px;
+}
+
+

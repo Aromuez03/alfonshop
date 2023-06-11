@@ -1,0 +1,36 @@
+h1 {
+  margin-top: 10%;
+}
+
+table {
+  height: 40%;
+  width: 30%;
+  margin: 0 auto;
+  margin-top: 60px;
+  background-color: #fff;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.8);
+}
+
+td {
+  padding: 10px;
+  font-size: x-large;
+}
+
+input[type=submit] {
+  width: 80%;
+  background-color: #ff5c5c;
+  color: #fff;
+  padding: 10px 15px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 22px;
+}
+
+.formatosubmit {
+  margin-left: 10%;
+  text-align: center;
+}
